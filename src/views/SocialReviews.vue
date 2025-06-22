@@ -67,10 +67,10 @@ import axios from 'axios'
 const API_KEY = 'AIzaSyBbgGjO-YfoKSQijS6VUM9rmYiaUszRQqQ'
 
 const branches = ref([
-  { name: 'New Cairo', placeId: 'ChIJlTzD4_MiWBQRc32WdS4JcCU', image: 'maraassi.jpg', reviews: [] },
+  { name: 'New Cairo', placeId: 'ChIJlTzD4_MiWBQRc32WdS4JcCU', image: 'NewCairo.jpg', reviews: [] },
   { name: 'Zayed', placeId: 'ChIJ9ViA1bxZWBQRytU-Ghi-LuY', image: 'Zayed.jpg', reviews: [] },
   { name: 'Giza', placeId: 'ChIJ08NKSSdHWBQRURt9OlgUCaQ', image: 'Giza.jpg', reviews: [] },
-  { name: 'Marassi', placeId: 'ChIJqYE-NhPtXxQRTAfi3uIZyZ0', image: 'zayed.jpg', reviews: [] },
+  { name: 'Marassi', placeId: 'ChIJqYE-NhPtXxQRTAfi3uIZyZ0', image: 'maraassi.jpg', reviews: [] },
 ])
 
 const instagramFollowers = ref('—')

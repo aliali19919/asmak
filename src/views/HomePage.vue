@@ -111,7 +111,7 @@ const galleryImages = [
 
 const branchImages = [
   { image: 'Zayed.jpg', key: 'Zayed' },
-  { image: 'Giza .jpg', key: 'Giza' },
+  { image: 'Giza.jpg', key: 'Giza' },
   { image: 'NewCairo.jpg', key: 'newCairo' },
   { image: 'Mohandseen.png', key: 'Mohandseen' },
   { image: 'maraassi.jpg', key: 'Marassi' },

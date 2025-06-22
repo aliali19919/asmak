@@ -84,6 +84,7 @@ export default {
       { textKey: 'nav.menu', href: '/menu' },
       { textKey: 'nav.news', href: '/latest/news' },
       { textKey: 'nav.contact', href: '/contact' },
+      { textKey: 'nav.socialReviews', href: '/social/reviews' },
     ]
 
     const { locale } = useI18n()

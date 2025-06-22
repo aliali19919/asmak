@@ -115,7 +115,7 @@ const branchImages = [
   { image: 'NewCairo.jpg', key: 'newCairo' },
   { image: 'Mohandseen.png', key: 'Mohandseen' },
   { image: 'maraassi.jpg', key: 'Marassi' },
-  { image: 'Marina.jpg', key: 'Marina' },
+  { image: 'marina.jpg', key: 'Marina' },
 ]
 
 const currentBranchIndex = ref(0)
